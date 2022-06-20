@@ -1,0 +1,100 @@
+.category{
+    position: absolute;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 160%;
+    margin-left: 101px;
+    margin-top: 50px;
+}
+
+
+
+.first{
+    position: absolute;
+    display: inline-block;
+    width: 250px;
+    height: 220px;
+    margin-top: 180px;
+    margin-left: 200px;
+}
+
+
+.second{
+    position: absolute;
+    display: inline-block;
+    width: 250px;
+    height: 220px;
+    margin-top: 180px;
+    margin-left: 650px;
+}
+
+.third{
+    position: absolute;
+    display: inline-block;
+    width: 250px;
+    height: 220px;
+    margin-top: 180px;
+    margin-left: 1150px;
+}
+
+
+.forth{
+    position: absolute;
+    display: inline-block;
+    width: 250px;
+    height: 220px;
+    margin-top: 580px;
+    margin-left: 200px;
+}
+
+.fifth{
+    position: absolute;
+    display: inline-block;
+    width: 250px;
+    height: 220px;
+    margin-top: 580px;
+    margin-left: 650px;
+}
+
+.sixth{
+    position: absolute;
+    display: inline-block;
+    width: 250px;
+    height: 220px;
+    margin-top: 580px;
+    margin-left: 1150px;
+}
+
+
+.cost1{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 300px;
+}
+.cost2{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 750px;
+}
+.cost3{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 1250px;
+}
+.cost4{
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 300px;
+}
+.cost5{
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 750px;
+}
+.cost6{
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 1250px;
+}
